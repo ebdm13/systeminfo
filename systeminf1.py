@@ -48,7 +48,7 @@ def save():
 window = Tk()
 window.title("information for your system")
 window.geometry("720x480")
-window.iconbitmap("logo.ico")
+# window.iconbitmap("logo.ico")
 window.config(background='#2D9DC6')
 
 frame = Frame(window, bg='#2D9DC6')
